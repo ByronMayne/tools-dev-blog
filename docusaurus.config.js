@@ -8,15 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Tools Dev Blog',
   tagline: 'A series of blogs covering programing in various forms',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://byronmayne.github.io',
   baseUrl: '/',
-  githubHost: 'github.com',
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Byron Mayne',
   projectName: 'tools-dev-blog', 
+  trailingSlash: true,
   themeConfig: {
     hideableSidebar: true,
     navbar: {
