@@ -11,7 +11,7 @@ const config = {
   url: 'https://byronmayne.github.io',
   baseUrl: '/',
   deploymentBranch: 'gh-pages',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ByronMayne',
