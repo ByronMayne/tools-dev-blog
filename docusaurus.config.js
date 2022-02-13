@@ -14,7 +14,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Byron Mayne',
+  organizationName: 'ByronMayne',
   projectName: 'tools-dev-blog', 
   trailingSlash: true,
   themeConfig: {
