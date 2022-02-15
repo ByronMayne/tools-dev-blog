@@ -1,15 +1,20 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+/**
+ * Gets the variable from the environment or
+ * returns the default value if not found
+ */
+const getVariable = (variableName, defaultValue) => {
+  if(process.env[variableName]) {
+    return process.env[variableName];
+  }
+  return defaultValue;
+}
 
-/** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Tools Dev Blog',
   tagline: 'A series of blogs covering programing in various forms',
   url: 'https://byronmayne.github.io',
-  baseUrl: '/',
+  baseUrl: getVariable("BASE_URL", '/'),
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
