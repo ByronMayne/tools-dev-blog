@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktools_dev_blog=self.webpackChunktools_dev_blog||[]).push([[332],{1712:function(o){o.exports=JSON.parse('{"permalink":"/tools-dev-blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

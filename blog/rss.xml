@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Tools Dev Blog Blog</title>
+        <link>https://byronmayne.github.io/tools-dev-blog/blog</link>
+        <description>Tools Dev Blog Blog</description>
+        <lastBuildDate>Mon, 14 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[First Day]]></title>
+            <link>https://byronmayne.github.io/tools-dev-blog/blog/2022/02/14/welcome/welcome</link>
+            <guid>/2022/02/14/welcome/welcome</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is my first blog post on tools-dev-blog and hopefully I can keep it up.]]></description>
+            <content:encoded><![CDATA[<p>Much like everyone's first day in a new school, I am not sure how this will work out. Bare with me and hopefully, this site will be able to provide you will some helpful tips and tricks I have picked up along the way. </p><h2 class="anchor anchorWithStickyNavbar_mojV" id="who-am-i">Who am I?<a class="hash-link" href="#who-am-i" title="Direct link to heading">​</a></h2><p>My name is Byron. I am a developer with a passion for programming and understanding the world around me. I am currently a fulltime tools and pipeline developer at <a href="https://www.ea.com/ea-studios/motive/news/get-to-know-a-tools-developer" target="_blank" rel="noopener noreferrer">EA Motive</a>.  </p><h2 class="anchor anchorWithStickyNavbar_mojV" id="goals">Goals<a class="hash-link" href="#goals" title="Direct link to heading">​</a></h2><p>With this blog, my goal is to be able to share with you random things I have come across that may or may not be useful to you. </p><p>In general most of my topics will be based on these general categories. </p><ul><li>C#</li><li>MSIL (Microsoft Intermediate Language) </li><li>React</li><li>MSBuild</li></ul>]]></content:encoded>
+            <category>first-day</category>
+        </item>
+    </channel>
+</rss>

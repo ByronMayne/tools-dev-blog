@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktools_dev_blog=self.webpackChunktools_dev_blog||[]).push([[884],{4480:function(o){o.exports=JSON.parse('{"/tools-dev-blog/blog/tags/first-day":{"allTagsPath":"/tools-dev-blog/blog/tags","slug":"/tools-dev-blog/blog/tags/first-day","name":"first-day","count":1,"permalink":"/tools-dev-blog/blog/tags/first-day"}}')}}]);
